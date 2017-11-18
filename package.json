@@ -29,7 +29,7 @@
     "node-telegram-bot": "^0.1.9",
     "node-telegram-bot-api": "^0.27.0",
     "request": "^2.80.0",
-    "watson-developer-cloud": "^2.25.1"
+    "watson-developer-cloud": "^2.42.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
